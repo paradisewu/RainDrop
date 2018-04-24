@@ -12,6 +12,8 @@
 
 ###
 
+![Image text](https://github.com/yujieschool/RainDrop/raw/master/Assets/Image/Test.gif)
+
 #  ”∆µµÿ÷∑£∫
 
 ###
